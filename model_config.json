@@ -1,0 +1,25 @@
+{
+  "category_mapping": {
+    "metal": "metal",
+    "paper": "paper",
+    "plastic": "plastic",
+    "cardboard": "paper",
+    "glass": "trash",
+    "compost": "trash",
+    "trash": "trash"
+  },
+  "original_classes": [
+    "cardboard",
+    "compost",
+    "glass",
+    "metal",
+    "paper",
+    "plastic",
+    "trash"
+  ],
+  "model_info": {
+    "architecture": "resnet50",
+    "input_size": 224,
+    "fastai_version": "2.7.18"
+  }
+}
